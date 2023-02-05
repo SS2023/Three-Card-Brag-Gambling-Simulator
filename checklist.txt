@@ -1,0 +1,19 @@
+Check List ----- Done
+While compared to homework 4, 2.0 effort went into completing this project. In this
+project, first I had to implement the game and its rules. Then, I had to build a simulation for the
+game. Figuring out how to implement the Martingale and anti-martingale into the game was
+tricky. I was able to implement the strategies by ending the game when one player runs out of
+money.
+
+Report ----- Done
+1485 words
+
+Presentation ----- Done
+
+Youtube Video ----- Done
+
+Code Base ----- Done
+a) code base ---- done
+b) data ----- done
+c) raw results ----- done
+d) readme ----- done
